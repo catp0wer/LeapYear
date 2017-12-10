@@ -18,7 +18,7 @@ public class LeapYear {
     }
 
     /**
-     * @param number - > number of next years to be displayed(from keyboard)
+     * @param number - > number of next years to be displayed
      * @return -> an ArrayList which includes the leap years
      */
     public ArrayList findLeapYears(int number){
